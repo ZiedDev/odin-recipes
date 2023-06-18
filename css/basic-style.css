@@ -1,0 +1,35 @@
+@font-face {
+    font-family: "Work Sans";
+    src: url("../fonts/Work Sans/WorkSans-Black.ttf");
+}
+body {
+    font-family: "Work Sans", sans-serif;
+    background-color: black;
+    color: white;
+
+}
+
+a {
+    color: rgb(149, 255, 151);
+}
+
+h6, td {
+    text-align: center;
+}
+
+li {
+    padding-bottom: 15pt;
+}
+
+img {
+    width: 100%;
+}
+
+td{
+    padding: 20px;
+    text-align: center;
+}
+
+#tableBG {
+    background-color: rgb(33, 33, 33);
+}
